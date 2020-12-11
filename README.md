@@ -15,3 +15,7 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kouffy&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kouffy)
+<p align='center'> More :</p>
+<p align='center'>
+<a href="https://dev.to/kouffy"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+</p>
