@@ -1,8 +1,5 @@
 ### Hi there 👋 I am **MOHAMED EL MOUKTAFI**
 
-<!--
-**Kouffy/Kouffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 people call me **Kouffy**. I am a software engineering student and a tech enthusiast.
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
