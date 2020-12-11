@@ -18,4 +18,5 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 <p align='center'> More :</p>
 <p align='center'>
 <a href="https://dev.to/kouffy"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@mohamedelmouktafi_85921"><img height="30" src="https://miro.medium.com/max/3150/1*sHhtYhaCe2Uc3IU0IgKwIQ.png?raw=true"></a>
 </p>
