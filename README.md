@@ -11,6 +11,26 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 - 🔭 I’m currently a software engineering student at EMSI : (Moroccan School of Engineering Sciences) 
 
+## ⚡ Technologies
+
+![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
+![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![AdobeXD](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=flat-square&logo=adobe%20xd&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white)
+
+## ⚡ Infos
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Kouffy&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kouffy&hide=TeX&layout=compact)
 
