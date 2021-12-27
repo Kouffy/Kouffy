@@ -1,6 +1,6 @@
 ### Hi there 👋 I am **MOHAMED EL MOUKTAFI**
 
-people call me **Kouffy**. I am a software engineering student and a tech enthusiast.
+people call me **Kouffy**. I am a software engineer student and a tech enthusiast.
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-MOHAMED%20EL%20MOUKTAFI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/el-mouktafi-mohamed-702969180/)](https://www.linkedin.com/in/el-mouktafi-mohamed-702969180/)
