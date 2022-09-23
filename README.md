@@ -22,8 +22,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![VueJS](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![AdobeXD](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=flat-square&logo=adobe%20xd&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat-square&logo=oracle&logoColor=white)
 
